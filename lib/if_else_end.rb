@@ -7,4 +7,4 @@ if even_ind == 0
     puts "Odd!"
   else
     puts "Error!"
-  
+end
